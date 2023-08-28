@@ -1,0 +1,4 @@
+name: origin       ; defaultValue: _ALL_VALUES_        ; type: CHARACTER; required:            1
+name: _action      ; defaultValue: form,prompts,execute; type: CHARACTER; required:            0
+name: _output_type ; defaultValue: html                ; type: CHARACTER; required:            0
+name: _migrated_stp; defaultValue: true                ; type: CHARACTER; required:            0
